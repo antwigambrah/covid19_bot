@@ -1,0 +1,167 @@
+{
+    "facts": [
+      {
+        "question" : "<b>Clarification on Lockdown</b> \n <b>Volunteering</b> \n <b>Question:</b> Does Government need Volunteers and how can I sign up?",
+        "answer" : " <b>Answer:</b> \n The Ghana Health Service has reached out to trained healthcare personnel who are currenty not engaged to assist with the various interventions such as contact tracing and supporting care.Any further need for volunteers will formally be announced. \n \n"
+        
+      },
+      {
+          "question":" <b>Clarification on Lockdown</> \n <b>Food and necessary supplies</b> \n <b>Question:</b> Can owners of table-top businesses, Super-markets and provision stores operate? ",
+          "answer":"<b>Answer: </b> \n Persons who trade in the food value chain are exempted from the imposed restrictions. They are allowed to continue to sell food. Dealers in non-food items are expected to remain closed.n \n \n"
+      },
+      {
+          "question":"<b>Question:</b> Are restaurants allowed to work during the lock down? ",
+          "answer":"<b>Answer:</b> \n Cooking of food for sale is not prohibited. What is prohibited is the provision of services for people to sit and eat. It is allowed to cook and sell for patrons to take away. As much as possible social distancing MUST be observed at any such place for purchases of cooked food. Buying and selling of cooked food should also be based in local communities only. \n"
+      },
+      {
+          "question":"<b> Clarifications on Lockdown</b> \n  <b>Restriction on Movement </b> \n <b>Question:</b> What type of proof/permission/documentation do exempt institutions and employees need to show to be given access to move ",
+          "answer":"<b>Answer:</b> \n Exempt institutions and their employees will be required to show their staff IDs to the Police/Military to be given access to move. Only critical staff of these exempt institutions are however expected to have access. \n \n"          
+      },
+      {
+          "question":"<b>Question:</b> What type of proof/permission/documentation do informal workers like market women and local food sellers need to show in order to be granted movement access? ",
+          "answer":"<b>Answer :</b> \n Market women, local food vendors and persons accessing toilette facilities in local communities will be given discretionary access by police/military within the local community. \n \n"
+      },
+      {
+          "question":"<b>Question:</b> It is obvious those who cannot cope with the lockdown in the affected areas have already made up their mind to leave to other regions before the lockdown commences. What are you doing to ensure they don’t carry the virus to other regions? ",
+          "answer":"<b>Answer:</b> \n Teams for contact tracing and testing of at-risk populations had already planned to be present other regions apart from the restricted regions. Contact tracing and testing is not limited to Accra and Kumasi alone. Additionally, residents of the other regions are advised to respect social distancing and preventive etiquette especially when engaging persons who have rushed to other regions ahead of the restrictions. Any such persons should be encouraged to keep in touch with local health authorities and report any symptoms for immediate attention. \n \n"
+      },
+      {
+          "question":"<b>Clarifications on Lockdown</b> \n <b>Stimulus Packages and COVID-19 Fund</b> \n <b>Question:</b> How can citizens contribute to the covid19 Fund? ",
+          "answer":"<b>Answer :</b>Donation details will be outlined before COB on Monday \n \n"
+      },
+      {
+          "question":"<b>Question :</b> Of the GHC 1bill going to households and small businesses, how much of it is going to Ghanaian households and how are you selecting those vulnerable households? ",
+          "answer":"<b>Answer :</b>  Finance Minister’s presentation on Monday in Parliament will outliner details \n \n"
+      },
+      {
+          "question":"<b>Question :</b>  The stimulus package announced, how is it going to reach people especially the households?",
+          "answer":"<b>Answer:</b> Finance Minister will announce details on monday \n \n"
+      },
+      {
+          "question":" <b>Clarifications on Lockdown</b> \n <b>Security</b> \n <b>Question</b> : What will be the exact roles of military and police in our communities?",
+          "answer":"<b>Answer:</b>  The Police and Military are to enforce compliance of the restrictions. They will additionally ensure safety and general security during the period. Their mission is not a combat mission. It is a humanitarian and health services support mission. \n \n"
+      },
+      {
+          "question":"<b>Question : </b> Are security guards that work at residences permitted to work during this period?",
+          "answer":"<b>Answer:</b> Private security companies have exemptions to operate during the period. \n \n"
+      },
+      {
+          "question":"<b>Question :</b>  Are security operatives allowed to beat and whip recalcitrant persons?",
+          "answer":"<b>Answer:</b> Security personnel will employ a combination of persuasion and minimal force in enforcing the restrictions. Recalcitrant persons may be arrested and prosecuted.  \n \n"
+      },
+      {
+          "question":"<b>Clarifications on Lockdown</b> \n <b>Trade and Commerce \n </b> <b>Question :</b>  Please kindly confirm if cleaning companies that provide cleaning services and sell cleaning products are classified as essential services?",
+          "answer":"<b>Answer:</b> No \n \n"
+      },
+      {
+          "question":"<b>Question :</b>  As an E-Commerce Business, would we require a sort of authorization to be able to move to our office to run our business?",
+          "answer":"<b>Answer:</b> Critical staff of the exempted technology businesses will be required to carry ID cards \n \n"
+      },
+      {
+          "question":"<b>Question :</b> Will Ports be closed?",
+          "answer":"<b>Answer:</b>  Ports remain open  for cargo business . Meaning critical GPHA staff incharge of Cargon business are exempted, critical staff of freight forwarders are exempted and critical staff of shipping lines are exempted.  \n \n"
+      },
+      {
+          "question":"<b>Clarifications on Lockdown</b> \n <b>Banking and Finance </b> \n <b>Question :</b> Are bank staff supposed to go to work?",
+          "answer":"<b>Answer:</b> Yes \n \n"
+      },
+      {
+          "question":"<b>Question :</b> Are Bank of Ghana workers exempted?",
+          "answer":"<b>Answer:</b>  Some categories of BOG staff have been specially permitted to work during the period \n \n"
+      },
+      {
+          "question":"<b>Question :</b> What about Mobile money agents can they operate? ",
+          "answer":"<b>Answer:</b> Yes \n \n"
+      },
+      {
+          "question":"<b>Clarifications on Lockdown</b> \n <b>Transportation</b> \n <b>Question :</b> Is there any transportation arrangements for these essential workers?",
+          "answer":"<b>Answer:</b> Company buses for the exempt or essential services will be given stickers. Staff are required to carry ID cards \n \n"
+      },
+      {
+          "question":"<b>Question :</b>  Appropriate spacing in trotro, how do we go about that.",
+          "answer":"<b>Answer:</b> Public transport operators are expected to have 1 seat apart or 1 meter apart  \n \n"
+      },
+      {
+          "question":"<b>Question :</b> Are commercial drivers from other regions going to be allowed to come to Accra?",
+          "answer":"<b>Answer:</b> No"
+      },
+      {
+          "question":"<b>Clarifications of lockdown</b> \n <b>Identification</b> \n  <b>Question :</b>What will be used to authenticate someone is an essential worker, is it ID Cards or what?",
+          "answer":"<b>Answer</b>: Yes. Even for essential service providers only critical staff are expected to attend to work. \n \n"
+      },
+      {
+          "question":" <b>Clarifications on Lockdown</b> \n <b>Health Care</b> \n <b>Question :</b> Will there be mass testing now that there is a lockdown? ",
+          "answer":"<b>Answer:</b> The Ghana Health Service is embarking on enhanced testing of contact traced persons and persons defined to be within at-risk populations. At risk populations are persons close to contact traced persons.\n \n"
+      },
+      {
+          "question":"<b>Question :</b> Are Health workers exempted from restrictions?",
+          "answer":"<b>Answer:</b> All categories of health workers are exempted from the restrictions \n \n"
+      },
+      {
+          "question":"<b>Question :</b> Who bears the burden of burying the dead?",
+          "answer":"<b>Answer:</b>  According to Public Health Regulations, persons who died in such instances are strictly handled and buried by the State \n \n "
+      },
+      {
+          "question":"<b>Clarifications on Lockdown</b> \n <b>Hotels/Drinking Bars/Pubs</b> \n  <b>Question :</b> Can Hotels operate?",
+          "answer":"<b>Answer:</b> All hotels can operate and host guests subject to enhanced preventive measures \n \n"
+      },
+      {
+          "question":"<b>Question :</b> Can drinking bars, night clubs and pubs operate?",
+          "answer":"<b>Answer:</b> Drinking bars, pubs and night clubs remain closed. "
+      },
+      {
+          "question": "<b>What is Coronavirus ? </b>",
+          "answer":"https://www.youtube.com/watch?v=IVqp2HLIXUQ \n"
+      },
+      {
+          "question":"<b>Question :</b> Latest Numbers on COVID-19 ",
+          "answer":"<b>Answer:</b> Ghana's Total Confirmed Cases: *287 \n \n  More updates check Ghana Health Service website \n https://ghanahealthservice.org/covid19/"
+      },
+      {
+          "question":"<b>Question :</b> How to protect yourself ? \n",
+          "answer":"<b>Answer:</b> There is no vaccine to protect against this family of viruses. Reduce your risk of infection by \n \n  1. Wash your hands with soap and water before touching anything including your eyes, nose and mouth \n2. Cover your mouth and nose when you cough or sneeze \n 3. Disinfect the objects and surfaces you touch. \nIf you are sick, stay home and avoid crowds and contact with others. "
+      },
+      {
+          "question":"<b>Question :</b> Signs and Symptoms of COVID-19 \n",
+          "answer":"<b>Answer:</b> The viruses can make people sick. Coronavirus symptoms include; \n 1. fever 🥵 \n 2. a runny nose 🤧  \n 3. cough  😷  \n 4.  sore throat  \n  5. possibly a headache 🤕  "
+      },
+      {
+          "question":"<b>Question :</b> What to do if exposed to COVID-19? \n ",
+          "answer":"<b>Answer:</b>You need to isolate yourself alone indoors. Kindly avoid close contacts with even family members at home so you do not put them at risk. \n Call the health authorities. (Call +233 55 843 9868 /+233 50 949 7700) or emergency number: 112"
+      },
+      {
+          "question":"<b>WHO Myth-busters</b> \n There is a lot of false information around. These are the facts.",
+          "answer":"🔢 People of all ages CAN be infected by the coronavirus. Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus. \n \n "
+      },
+      {
+          "question":"☀ The coronavirus CAN be transmitted in areas with hot and humid climates \n \n 🦟 The coronavirus CANNOT be transmitted through mosquito bites. \n \n 🐶 There is NO evidence that companion animals/pets such as dogs or cats can transmit the coronavirus. \n \n 🛀 Taking a hot bath DOES NOT prevent the coronavirus \n \n  💨 Hand dryers are NOT effective in killing the coronavirus \n \n 🟣 Ultraviolet light SHOULD NOT be used for sterilization and can cause skin irritation \n \n",
+          "answer":"🌡 Thermal scanners CAN detect if people have a fever but CANNOT detect whether or not someone has the coronavirus \n \n 💦 Spraying alcohol or chlorine all over your body WILL NOT kill viruses that have already entered your body \n \n  💉 Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenzae type b (Hib) vaccine, DO NOT provide protection against the coronavirus. \n \n   👃 There is NO evidence that regularly rinsing the nose with saline has protected people from infection with the coronavirus. \n \n"
+      },
+      {
+          "question":"🧄 Garlic is healthy but there is NO evidence from the current outbreak that eating garlic has protected people from the coronavirus. \n \n",
+          "answer":" 💊 Antibiotics DO NOT work against viruses, antibiotics only work against bacteria. \n \n 🧪 To date, there is NO specific medicine recommended to prevent or treat the coronavirus. \n \n"
+      },
+      {
+          "question":"<b>Top Story on COVID-19:</b> \n \n (Full Speech) Update No. 5: Measures taken to combat spread of Coronavirus: \n \n ",
+          "answer":"https://www.facebook.com/1259771767391320/posts/2836753303026484/?d=n"
+      },
+      {
+          "question":"<b>Report a case </b> \n Call the health authorities and report any suspected case of COVID-19. (Call +233 55 843 9868 /+233 50 949 7700) \n ",
+          "answer":"Emergency number: 112. \n Non Emergency Line: 311"
+      },
+      {
+          "question":"<b>Question :</b>",
+          "answer":"<b>Answer:</b>"
+      },
+      {
+          "question":"<b>Question :</b>",
+          "answer":"<b>Answer:</b>"
+      },
+      {
+          "question":"<b>Question :</b>",
+          "answer":"<b>Answer:</b>"
+      }
+    ]
+  }
+
+  
