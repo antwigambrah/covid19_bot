@@ -24,8 +24,8 @@ type Fact struct {
 var (
 	app       application
 	bot       *tbot.Server
-	token     = os.Getenv("TOKEN")
-	url       = os.Getenv("URl")
+	token     = "1053022585:AAFNeaj25ntklybPuQ24tcgoFU7mrt-bGq0"
+	url       = "https://covid19-273910.appspot.com"
 	port      = os.Getenv("PORT")
 	redisaddr = os.Getenv("REDIS_URL")
 	redispass = os.Getenv("REDIS_PASSWORD")
