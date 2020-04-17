@@ -161,8 +161,6 @@ func (app *application) processFactsResult(startPosition int, endPosition int, m
 
 	json.Unmarshal(byteValue, &facts)
 
-	setCache("facts", facts)
-
 	theFacts := []string{}
 	userID := strconv.Itoa(message.From.ID)
 	redisKey := userID + ":prev_command"
