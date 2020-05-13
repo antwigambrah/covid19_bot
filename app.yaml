@@ -3,11 +3,13 @@ runtime: go112  # or go113 for Go 1.13 runtime (beta)
 instance_class: F2
 env: standard
 env_variables:
-  TOKEN: "1053022585:AAFNeaj25ntklybPuQ24tcgoFU7mrt-bGq0"
-  URL: "https://covid19-273910.appspot.com"
+  PROJECT_ID: "covid19-273910"
+  TOKEN: "904642129:AAHsIMNgVTUyjPDsfMAj8EI22ECW4bBevkY"
+  URL: ""
   PORT: "8080"
-  REDIS_URL: "redis-10060.c11.us-east-1-3.ec2.cloud.redislabs.com:10060"
-  REDIS_PASSWORD: "DqzmOUtOD1Z0O8z3PWLJ85vFOPWEPZ7U"
+  REDIS_URL: "localhost:6379"
+  REDIS_PASSWORD: ""
+  ENV : "local"
 
 
 
