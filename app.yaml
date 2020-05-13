@@ -4,11 +4,11 @@ instance_class: F2
 env: standard
 env_variables:
   PROJECT_ID: "covid19-273910"
-  TOKEN: "904642129:AAHsIMNgVTUyjPDsfMAj8EI22ECW4bBevkY"
-  URL: ""
+  TOKEN: "1053022585:AAFNeaj25ntklybPuQ24tcgoFU7mrt-bGq0"
+  URL: "https://covid19-273910.wm.r.appspot.com/"
   PORT: "8080"
-  REDIS_URL: "localhost:6379"
-  REDIS_PASSWORD: ""
+  REDIS_URL: "redis-10060.c11.us-east-1-3.ec2.cloud.redislabs.com:10060"
+  REDIS_PASSWORD: "DqzmOUtOD1Z0O8z3PWLJ85vFOPWEPZ7U"
   ENV : "local"
 
 

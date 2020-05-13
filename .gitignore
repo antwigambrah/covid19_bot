@@ -16,3 +16,4 @@
 .env
 .docker_build/
 bin/
+.idea/
