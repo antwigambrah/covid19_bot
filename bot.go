@@ -64,7 +64,7 @@ var (
 		"8. COVID-19 Self Quarantine Guideline \n 9. COVID-19 FAQ's ❔ \n10. Latest news and Press 📰 \n " +
 		"11. Report a case ❗ \n"
 	informationMessage = " *General Information:* \n Reply with your Option to Proceed: \n1. Support Lines"
-	newsMessage        = "*Top Story on COVID-19:* \n Minister’s Press Briefing on Tuesday, April 7 2020. Watch here: https://www.facebook.com/moi.gov.gh/videos/621704522007757/?vh=e&d=n"
+	newsMessage        = "*Top Story on COVID-19:* \n Minister’s Press Briefing  latest. Watch here: https://www.facebook.com/moi.gov.gh/videos"
 )
 
 //Recieves incoming messages
