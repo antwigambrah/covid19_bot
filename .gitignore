@@ -17,3 +17,4 @@
 .docker_build/
 bin/
 .idea/
+app.yaml
