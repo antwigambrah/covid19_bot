@@ -128,9 +128,11 @@ func (bot *Bot) processCommand(message *tbot.Message) {
 	}(&wg)
 
 	go func(wg *sync.WaitGroup) {
+		wg.Add(1)
 		replyMessage := bot.getCommandReplyMessage(message.Text)
 		bot.client.SendMessage(message.Chat.ID, replyMessage, tbot.OptParseModeMarkdown)
 	}(&wg)
+	wg.Wait()
 }
 
 //handles automatic replies to command inputs
